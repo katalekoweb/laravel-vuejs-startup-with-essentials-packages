@@ -19,8 +19,8 @@ But you can run with your local php and mysql enviroments without docker.
 
 ### clone the repository
 ```bash
-git clone https://github.com/katalekoweb/laravel-filament-startup-with-essentials-packages.git
-cd laravel-filament-startup-with-essentials-packages
+git clone https://github.com/katalekoweb/laravel-vuejs-startup-with-essentials-packages.git
+cd laravel-vuejs-startup-with-essentials-packages
 ```
 
 ### Copy the env file 
