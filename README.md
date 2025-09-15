@@ -1,4 +1,4 @@
-# Laravel Filament Startup Script for full systems and admins
+# Laravel Vuejs Startup Script for full systems and admins
 
 ## Packages
 Laravel Breeze with Vuejs - https://laravel.com/docs/11.x/starter-kits
